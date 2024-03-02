@@ -1,0 +1,2 @@
+# Typescript
+Fundamento de Typescript.
